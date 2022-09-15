@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">CurrencyObserver</string>
+    <string name="popular">Popular</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort">Sort</string>
+    <string name="update_rates">Update rates</string>
+    <string name="not_sorted">Not sorted</string>
+    <string name="by_alphabet_asc">By alphabet asc</string>
+    <string name="by_alphabet_desc">By alphabet desc</string>
+    <string name="by_value_asc">By value asc</string>
+    <string name="by_value_desc">By value desc</string>
+    <string name="check_network">Please check the network connection</string>
+    <string name="ok">OK</string>
+    <string name="unknow_error_message">Unknown error, please try again or contact to support</string>
+    <string name="exchange_rate_form">Exchange rate for date: %1$s</string>
+    <string name="by_alphabet">By alphabet</string>
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="by_value">By value</string>
 </resources>

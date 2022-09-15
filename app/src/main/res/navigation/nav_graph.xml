@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nag_graph"
+    app:startDestination="@id/nav_popular">
+
+    <include app:graph="@navigation/nav_popular" />
+    <include app:graph="@navigation/nav_favorites" />
+    <fragment
+        android:id="@+id/sortFragment"
+        android:name="com.coldfier.currencyobserver.ui.sort.SortFragment"
+        android:label="SortFragment" />
+    <action
+        android:id="@+id/action_global_sortFragment"
+        app:destination="@id/sortFragment" />
+</navigation>

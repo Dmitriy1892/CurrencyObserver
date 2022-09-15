@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/drawable/bg_item_currency.xml" value="0.189" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/drawable/bg_sort_chip.xml" value="0.22" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/fragment_currency_pairs.xml" value="0.22" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/fragment_favorites.xml" value="0.3546875" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/fragment_sort.xml" value="0.3546875" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/item_chosen_currency.xml" value="0.35572916666666665" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/rv_item_currency.xml" value="0.3546875" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/layout/spinner_item_currency.xml" value="0.35572916666666665" />
+        <entry key="..\:/MyProjects/CurrencyObserver/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1482905982905983" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
